@@ -5,7 +5,7 @@
 2. [Mathematical expectation, dispersion, standard deviation | LW#2](#2) <br>
 3. [Descriptive statistics for images | LW#3](#3) <br>
 4. [Cluster Analysis | LW#4](#4) <br>
-5. [Kohonen SOM | LW#5](#4)
+5. [Kohonen SOM | LW#5](#5)
 ____________________________________________________________________________________________________________________________________________________________________________________
 # 1. Regression <a name = "1"></a>
 ## Upload Data
