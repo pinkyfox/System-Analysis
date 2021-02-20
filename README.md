@@ -964,7 +964,7 @@ as.matrix(list(accurancy = 1 - (testKM / 36)))
 
 
 ## Clustering
-#### `ACCCORING TO THE GRPHICS PRINTED ABOVE THE OPTIMAL VALUE OF `*`k`*` EQUALS TO 4`
+#### `ACCCORING TO THE GRAPHICS PRINTED ABOVE THE OPTIMAL VALUE OF `*`k`*` EQUALS TO 3`
 
 
 ```R
